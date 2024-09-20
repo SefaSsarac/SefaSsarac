@@ -4,7 +4,7 @@
   
   I want to improve myself in the fields of layered software development and database management systems with an object-oriented programming approach based on enterprise architecture and software development principles. I am disciplined, compatible with teamwork and committed to ethical values.</h3>
 
-- 💬 Ask me about **.Net Core, HTML, CSS**
+- 💬 Ask me about **.Net Core, HTML, CSS,PostgreSQL**
 
 - 📫 How to reach me **srcsfysf@gmail.com**
 
