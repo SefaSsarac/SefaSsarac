@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="center">A passionate software developer. Analytical thinking and developing others with knowledge are my greatest strengths. I believe that I should be more equipped every day than the day before. Continuous learning and sharing experiences are motivational boosters for me. 
-  
-  
-  I want to improve myself in the fields of layered software development and database management systems with an object-oriented programming approach based on enterprise architecture and software development principles. I am disciplined, compatible with teamwork and committed to ethical values.</h3>
+<h3 align="center">A passionate software developer. Analytical thinking and developing others with knowledge are my greatest strengths. I believe that I should be more equipped every day than the day before. Continuous learning and sharing experiences are motivational boosters for me..</h3>
 
 - 💬 Ask me about **.Net Core, HTML, CSS, PostgreSQL**
 
